@@ -6,3 +6,7 @@ My name is Massiel Checo and I am a Sophomore student at Lehigh University doubl
 ## Is Lehigh University Diverse?
 This is an infographic about Lehigh enrollment I created using Canva.
 ![Is Lehigh Diverse?](massielcheco.github.io/Is Lehigh Diverse_ (1).png)
+
+## Which of the Lehigh University colleges are most popular? 
+This is an infographic about the popularity between Lehigh's colleges I created using Canva. 
+![Lehigh Colleges](massielcheco.github.io/Which Lehigh University college is most popular_.png)
