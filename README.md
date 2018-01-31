@@ -11,3 +11,5 @@ This is an infographic about Lehigh enrollment I created using Canva.
 This is an infographic about the popularity between Lehigh's colleges I created using Canva. 
 ![Lehigh Colleges](massielcheco.github.io/Which Lehigh University college is most popular_.png)
 
+## Rio de Janeiro 2016
+![Rio 2016](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1i_AwWh8VpiETooG5qDEgLyGiqpMa_Yl-FSqZEPUnNF8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
