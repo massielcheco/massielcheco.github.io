@@ -10,4 +10,4 @@ This is an infographic about Lehigh enrollment I created using Canva.
 ## Which of the Lehigh University colleges are most popular? 
 This is an infographic about the popularity between Lehigh's colleges I created using Canva. 
 ![Lehigh Colleges](massielcheco.github.io/Which Lehigh University college is most popular_.png)
-HTML page: [https://massielcheco.github.io/infographic.html]
+
