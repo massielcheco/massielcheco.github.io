@@ -17,3 +17,4 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 ## The Evolution of Black Hair 
 <iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
                                 
+                                
