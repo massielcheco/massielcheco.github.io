@@ -19,3 +19,6 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 
 ## Lehigh University Fall 2016 Undergraduate Enrollment
 ![Enrollment](massielcheco.github.io/Lehigh_University_Fall_2016_Undergraduate_Enrollment_Fall_2016_Undergraduate_Enrollment_chartbuilder.png)
+
+## Undergraduate Enrollment at Lehigh University over the course of 10 years 
+![10 years](massielcheco.github.io/Undergraduate_Enrollment_at_Lehigh_University_over_10_years_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
