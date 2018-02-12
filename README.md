@@ -16,3 +16,6 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 
 ## The Evolution of Black Hair 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ms1ZELK4KQdSOAxYHcjHPrdEtNGIbd8XFP0lF2zjL9Q&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Lehigh University Fall 2016 Undergraduate Enrollment
+![Enrollment](massielcheco.github.io/Lehigh_University_Fall_2016_Undergraduate_Enrollment_Fall_2016_Undergraduate_Enrollment_chartbuilder.png)
