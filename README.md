@@ -22,3 +22,6 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 
 ## Undergraduate Enrollment at Lehigh University over the course of 10 years 
 ![10 years](massielcheco.github.io/Undergraduate_Enrollment_at_Lehigh_University_over_10_years_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
+
+## Race/Ethnicity of Undergraduate Lehigh Students over the course of 10 years
+![Race/Ethnicity](massielcheco.github.io/Race_Ethnicity_of_Undergraduate_Lehigh_Students__Black_Asian_Hispanic_Latino_White_chartbuilder.png)
