@@ -28,3 +28,7 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 
 ## Art Centers in Bethlehem, PA
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1UPIy1XJE8qsRfXFRPjlewKBTiXZrjUYWif8FTF6y&amp;viz=MAP&amp;h=false&amp;lat=40.61003787266508&amp;lng=-75.37565907581177&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+## Popular Places to get Coffee near Lehigh University
+Below is a map of some of the most popular places where Lehigh students like to buy coffee. 
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1J0_VVr5gGP9Sw2X4_Vd01WDGcu8cdJ8Um1Fqv5U9&amp;viz=MAP&amp;h=false&amp;lat=40.610828955560464&amp;lng=-75.37711919999998&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
