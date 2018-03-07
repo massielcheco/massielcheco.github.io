@@ -12,9 +12,11 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 ![Lehigh Colleges](massielcheco.github.io/Which Lehigh University college is most popular_.png)
 
 ## Rio de Janeiro 2016
+This a timeline I created about the 2016 Olympics held in Rio de Janeiro. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1i_AwWh8VpiETooG5qDEgLyGiqpMa_Yl-FSqZEPUnNF8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## The Evolution of Black Hair 
+This is a timeline I created about the evolution of black hair from decades ago till present. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ms1ZELK4KQdSOAxYHcjHPrdEtNGIbd8XFP0lF2zjL9Q&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Lehigh University Fall 2016 Undergraduate Enrollment
