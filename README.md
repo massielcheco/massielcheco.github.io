@@ -28,10 +28,11 @@ This is a chart I created on undergrad enrollment at Lehigh from 2007-2017 using
 ![10 years](massielcheco.github.io/Undergraduate_Enrollment_at_Lehigh_University_over_10_years_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
 
 ## Race/Ethnicity of Undergraduate Lehigh Students over the course of 10 years
-
+This is a line chart I created on the race and ethnicity of undergraduate Lehigh students from 2007-2017 using Chartbuilder. 
 ![Race/Ethnicity](massielcheco.github.io/Race_Ethnicity_of_Undergraduate_Lehigh_Students__Black_Asian_Hispanic_Latino_White_chartbuilder.png)
 
 ## Art Centers in Bethlehem, PA
+Below is a map of a few art centers in Bethlehem. 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1UPIy1XJE8qsRfXFRPjlewKBTiXZrjUYWif8FTF6y&amp;viz=MAP&amp;h=false&amp;lat=40.61003787266508&amp;lng=-75.37565907581177&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 ## Popular Places to get Coffee near Lehigh University
