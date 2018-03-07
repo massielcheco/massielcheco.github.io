@@ -16,16 +16,19 @@ This a timeline I created about the 2016 Olympics held in Rio de Janeiro.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1i_AwWh8VpiETooG5qDEgLyGiqpMa_Yl-FSqZEPUnNF8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## The Evolution of Black Hair 
-This is a timeline I created about the evolution of black hair from decades a go till present. 
+This is a timeline I created about the evolution of black hair over the course of decades using Timeline JS. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ms1ZELK4KQdSOAxYHcjHPrdEtNGIbd8XFP0lF2zjL9Q&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Lehigh University Fall 2016 Undergraduate Enrollment
+This is a chart I created on Lehigh's Fall 2016 undergraduate enrollment using Chartbuilder. 
 ![Enrollment](massielcheco.github.io/Lehigh_University_Fall_2016_Undergraduate_Enrollment_Fall_2016_Undergraduate_Enrollment_chartbuilder.png)
 
-## Undergraduate Enrollment at Lehigh University over the course of 10 years 
+## Undergraduate Enrollment by college at Lehigh University over the course of 10 years 
+This is a chart I created on undergrad enrollment at Lehigh from 2007-2017 using Chartbuilder. 
 ![10 years](massielcheco.github.io/Undergraduate_Enrollment_at_Lehigh_University_over_10_years_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
 
 ## Race/Ethnicity of Undergraduate Lehigh Students over the course of 10 years
+
 ![Race/Ethnicity](massielcheco.github.io/Race_Ethnicity_of_Undergraduate_Lehigh_Students__Black_Asian_Hispanic_Latino_White_chartbuilder.png)
 
 ## Art Centers in Bethlehem, PA
