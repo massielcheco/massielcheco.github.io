@@ -3,6 +3,7 @@
 
 My name is Massiel Checo and I am a Sophomore student at Lehigh University double majoring in Journalism and Sociology with a minor in Marketing. I am from the Bronx, NY and I am bilingual. Here is my [LinkedIn Page](https://www.linkedin.com/in/massiel-checo-302065138/)
 
+This is a comic strip I made introducing myself using Pixton!
 ![Comic Book](massielcheco.github.io/Screenshot 2018-03-05 20.25.04.png) 
 
 
