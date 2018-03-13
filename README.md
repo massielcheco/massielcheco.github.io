@@ -17,7 +17,7 @@ This is an infographic about the popularity between Lehigh's colleges I created 
 
 
 ## The Evolution of Black Hair 
-This is a timeline I created about the evolution of black hair over the course of decades using Timeline JS. This was my favorite project because if you know me, you know that my hair is so important to me. Being a hispanic young lady with crazy curly hair, I try my best to maintain it intact and as perfect as possible through a variety of methods, so researching and finding out about the evolution of my ancestors hair and how they maintained theirs was so amazing to me. 
+This is a timeline I created about the evolution of black hair over the course of decades using Timeline JS. This was my favorite project because if you know me, you know that my hair is so important to me. Being a hispanic young lady with crazy curly hair, I try my best to keep my hair as intact and perfect as possible through a variety of methods and products, so researching and finding out about the evolution of my ancestor's hair and how they maintained theirs was so amazing to me. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Ms1ZELK4KQdSOAxYHcjHPrdEtNGIbd8XFP0lF2zjL9Q&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
